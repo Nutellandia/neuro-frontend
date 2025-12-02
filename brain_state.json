@@ -1,12 +1,12 @@
 {
-  "stage": "Ganglio Basale (Riflessi)",
+  "stage": "Progenitore Neurale (Neuroblasto)",
   "ascensionLevel": 0,
-  "energy": 143.24999999999352,
-  "maxEnergy": 231,
+  "energy": 66.90000000000074,
+  "maxEnergy": 158,
   "metabolicRate": -0.05,
-  "genesisTimestamp": 1764644855751,
+  "genesisTimestamp": 1764652052767,
   "neurotransmitters": {
-    "dopamine": 0,
+    "dopamine": 36.900000000000745,
     "serotonin": 80,
     "adrenaline": 0,
     "acetylcholine": 10,
@@ -15,9 +15,9 @@
   "memories": [],
   "shortTermBuffer": [],
   "phonemeMemory": {},
-  "neuronCount": 8111,
+  "neuronCount": 888,
   "synapseStrength": 0.1,
-  "ageTicks": 1183,
+  "ageTicks": 262,
   "lastThought": "[BG: SCANNING_INPUTS]",
   "isSleeping": false,
   "vocabulary": [],
@@ -45,12 +45,12 @@
     }
   },
   "handPosition": {
-    "x": 38.89996439890893,
-    "y": 43.88429908977136
+    "x": 50,
+    "y": 50
   },
   "handVelocity": {
-    "vx": 0.37000118670307547,
-    "vy": 0.20385669700750714
+    "vx": 0,
+    "vy": 0
   },
   "targetStroke": [],
   "neuroPlasticity": {
@@ -68,7 +68,7 @@
   "detectedPeripherals": [],
   "computeMode": "LOCAL",
   "proceduralConfig": {
-    "seed": 1764644855751,
+    "seed": 1764652052767,
     "densityMap": {
       "0": 0.5,
       "1": 0.8
