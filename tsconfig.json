@@ -16,6 +16,6 @@
     "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["."],
-  "exclude": ["node_modules"]
+  "include": [".", "src"],
+  "exclude": ["node_modules", "backend", "rust_core"]
 }
