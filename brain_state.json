@@ -1,0 +1,78 @@
+{
+  "stage": "Ganglio Basale (Riflessi)",
+  "ascensionLevel": 0,
+  "energy": 143.24999999999352,
+  "maxEnergy": 231,
+  "metabolicRate": -0.05,
+  "genesisTimestamp": 1764644855751,
+  "neurotransmitters": {
+    "dopamine": 0,
+    "serotonin": 80,
+    "adrenaline": 0,
+    "acetylcholine": 10,
+    "cortisol": 0
+  },
+  "memories": [],
+  "shortTermBuffer": [],
+  "phonemeMemory": {},
+  "neuronCount": 8111,
+  "synapseStrength": 0.1,
+  "ageTicks": 1183,
+  "lastThought": "[BG: SCANNING_INPUTS]",
+  "isSleeping": false,
+  "vocabulary": [],
+  "learnedReflexes": {},
+  "curiosityLevel": 0,
+  "mirrorNeuronActivity": 0,
+  "visualFocus": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1,
+    "eyesClosed": false,
+    "activeEyeIndex": 0,
+    "availableEyes": [
+      {
+        "id": "",
+        "label": "Camera ",
+        "type": "video"
+      }
+    ],
+    "currentEyeLabel": "Default",
+    "cameraSettings": {
+      "exposureCompensation": 0,
+      "iso": 0,
+      "torch": false
+    }
+  },
+  "handPosition": {
+    "x": 38.89996439890893,
+    "y": 43.88429908977136
+  },
+  "handVelocity": {
+    "vx": 0.37000118670307547,
+    "vy": 0.20385669700750714
+  },
+  "targetStroke": [],
+  "neuroPlasticity": {
+    "recruited": false,
+    "triggeredBy": "",
+    "activationTimestamp": 0
+  },
+  "outputCapabilities": {
+    "canWrite": false,
+    "canDraw": false,
+    "canBrowse": false
+  },
+  "typewriterBuffer": "",
+  "typewriterHistory": [],
+  "detectedPeripherals": [],
+  "computeMode": "LOCAL",
+  "proceduralConfig": {
+    "seed": 1764644855751,
+    "densityMap": {
+      "0": 0.5,
+      "1": 0.8
+    },
+    "lodThreshold": 1000
+  }
+}
