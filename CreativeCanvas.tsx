@@ -1,1 +1,1 @@
-import React from 'react'; export default function CreativeCanvas(props: any) { return <div />; }
+import React from 'react'; export default function CreativeCanvas() { return <div>Canvas</div>; }

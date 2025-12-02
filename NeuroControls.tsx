@@ -1,1 +1,1 @@
-import React from 'react'; export default function NeuroControls(props: any) { return <div />; }
+import React from 'react'; export default function NeuroControls({values, onChange}:any) { return <div>Controls</div>; }

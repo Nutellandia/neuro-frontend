@@ -1,1 +1,1 @@
-import React from 'react'; export default function MediaLearningStation(props: any) { return <div />; }
+import React from 'react'; export default function MediaLearningStation() { return <div>Media</div>; }

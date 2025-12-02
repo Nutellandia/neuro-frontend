@@ -1,1 +1,1 @@
-import React from 'react'; export default function WebInterface(props: any) { return <div />; }
+import React from 'react'; export default function WebInterface() { return <div>Web</div>; }

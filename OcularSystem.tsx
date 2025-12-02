@@ -1,1 +1,1 @@
-import React from 'react'; export default function OcularSystem(props: any) { return <div />; }
+import React from 'react'; export default function OcularSystem() { return <div>Ocular</div>; }

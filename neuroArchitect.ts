@@ -1,1 +1,1 @@
-export const neuroArchitect = {};
+import { BrainState } from "@/types"; export const neuroArchitect = { generator: {}, distributed: {}, getSparseActivationMask: () => [] };

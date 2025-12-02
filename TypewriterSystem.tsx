@@ -1,1 +1,1 @@
-import React from 'react'; export default function TypewriterSystem(props: any) { return <div />; }
+import React from 'react'; export default function TypewriterSystem() { return <div>Type</div>; }

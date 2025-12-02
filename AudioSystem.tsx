@@ -1,1 +1,1 @@
-import React from 'react'; export default function AudioSystem(props: any) { return <div />; }
+import React from 'react'; export default function AudioSystem() { return <div>Audio</div>; }

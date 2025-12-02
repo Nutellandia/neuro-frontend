@@ -1,1 +1,1 @@
-import React from 'react'; export default function MotionSystem(props: any) { return <div />; }
+import React from 'react'; export default function MotionSystem() { return <div>Motion</div>; }

@@ -1,1 +1,1 @@
-import React from 'react'; export default function VocalTract(props: any) { return <div />; }
+import React from 'react'; export default function VocalTract() { return <div>Vocal</div>; }

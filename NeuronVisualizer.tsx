@@ -1,1 +1,1 @@
-import React from 'react'; export default function NeuronVisualizer(props: any) { return <div />; }
+import React from 'react'; export default function NeuronVisualizer() { return <div className="text-white">Visualizer Active</div>; }
