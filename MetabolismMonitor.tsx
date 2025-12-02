@@ -1,0 +1,1 @@
+import React from 'react'; export default function MetabolismMonitor(props: any) { return <div />; }

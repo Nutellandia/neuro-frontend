@@ -1,0 +1,1 @@
+export const localLlmNode = { getStatus: () => ({isLoaded: false}), think: async () => '' };

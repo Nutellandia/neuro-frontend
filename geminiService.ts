@@ -1,0 +1,1 @@
+export const processBrainReaction = async () => ({thought: 'STUB'});
