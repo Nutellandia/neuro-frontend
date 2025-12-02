@@ -7,6 +7,9 @@ export default defineConfig({
     target: 'esnext',
     outDir: 'dist'
   },
+  worker: {
+    format: 'es'
+  },
   optimizeDeps: {
     exclude: ['@mlc-ai/web-llm']
   }

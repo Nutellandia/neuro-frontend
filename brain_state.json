@@ -1,12 +1,12 @@
 {
   "stage": "Progenitore Neurale (Neuroblasto)",
   "ascensionLevel": 0,
-  "energy": 66.90000000000074,
-  "maxEnergy": 158,
+  "energy": 167.04999999999922,
+  "maxEnergy": 191,
   "metabolicRate": -0.05,
-  "genesisTimestamp": 1764652052767,
+  "genesisTimestamp": 1764652745075,
   "neurotransmitters": {
-    "dopamine": 36.900000000000745,
+    "dopamine": 24.250000000000913,
     "serotonin": 80,
     "adrenaline": 0,
     "acetylcholine": 10,
@@ -15,10 +15,10 @@
   "memories": [],
   "shortTermBuffer": [],
   "phonemeMemory": {},
-  "neuronCount": 888,
+  "neuronCount": 4185,
   "synapseStrength": 0.1,
-  "ageTicks": 262,
-  "lastThought": "[BG: SCANNING_INPUTS]",
+  "ageTicks": 656,
+  "lastThought": "[MEM: INDEXING_FRAGMENTS]",
   "isSleeping": false,
   "vocabulary": [],
   "learnedReflexes": {},
@@ -68,7 +68,7 @@
   "detectedPeripherals": [],
   "computeMode": "LOCAL",
   "proceduralConfig": {
-    "seed": 1764652052767,
+    "seed": 1764652745075,
     "densityMap": {
       "0": 0.5,
       "1": 0.8
